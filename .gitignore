@@ -1,0 +1,18 @@
+# Xcode build and derived data
+build/
+DerivedData/
+
+# User-specific Xcode files
+*.xcuserstate
+xcuserdata/
+
+# Workspace user data
+*.xcworkspace/xcuserdata/
+
+# Xcode scheme files
+*.xcscheme
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved

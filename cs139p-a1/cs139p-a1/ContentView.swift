@@ -26,7 +26,7 @@ struct ContentView: View {
         
       }
       HStack {
-        themeButton(emojiSet: ["🌵", "🌲", "🪴", "🌴", "🌳", "🌿"], image: "pawprint.circle", labelText: "Animals"
+        themeButton(emojiSet: ["🐶", "🐱", "🐭", "🐹", "🐰", "🦊"], image: "pawprint.circle", labelText: "Animals"
         )
         
         Spacer()

@@ -90,6 +90,4 @@ class EmojiMemoryGame: ObservableObject {
     theme = listOfThemes.randomElement() ?? listOfThemes[1]
     model = EmojiMemoryGame.createMemoryGame(theme)
   }
-  
-  // a card is seen again if it's not matched and isFirstFlip is false
 }
